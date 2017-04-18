@@ -5,7 +5,7 @@
 
 ## Reason for this image
 
-If you only need offline documentation you will be happy with (https://devdocs.io)[https://devdocs.io] which store the documentation in your offline cache in your browser. In my case I delete my browser data every day so the amazing devdocs.io does not work for me. If you have similar problems this image will help you because all documentations are available without the browser cache.
+If you only need offline documentation you will be happy with https://devdocs.io which store the documentation in your offline cache in your browser. In my case I delete my browser data every day so the amazing devdocs.io does not work for me. If you have similar problems this image will help you because all documentations are available without the browser cache.
 
 ## Usage
 
